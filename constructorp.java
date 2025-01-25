@@ -1,8 +1,7 @@
 class Constructorp {
 int result; // Parameterized constructor
 Constructorp(int a, int b) {
-result = a + b;
-}
+result = a + b;}
 public static void main(String args[]) {
 int x = 5;
 int y = 10;
